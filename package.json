@@ -1,6 +1,6 @@
 {
   "name": "variance",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "In probability theory and statistics, variance measures how far a set of numbers is spread out. http://en.wikipedia.org/wiki/Variance",
   "main": "src/variance.js",
   "scripts": {
@@ -28,6 +28,6 @@
     "tap": "~0.4.8"
   },
   "dependencies": {
-    "average": "0.0.0"
+    "average": "~0.0.1"
   }
 }
