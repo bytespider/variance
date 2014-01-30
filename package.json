@@ -1,0 +1,33 @@
+{
+  "name": "variance",
+  "version": "0.0.0",
+  "description": "In probability theory and statistics, variance measures how far a set of numbers is spread out. http://en.wikipedia.org/wiki/Variance",
+  "main": "src/variance.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bytespider/variance"
+  },
+  "keywords": [
+    "variance",
+    "statisitcs",
+    "spread"
+  ],
+  "author": {
+    "name": "Rob Griffiths",
+    "email": "rob@bytespider.eu",
+    "url": "http://bytespider.eu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytespider/variance/issues"
+  },
+  "devDependencies": {
+    "tap": "~0.4.8"
+  },
+  "dependencies": {
+    "average": "0.0.0"
+  }
+}
